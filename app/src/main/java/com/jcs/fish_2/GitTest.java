@@ -5,4 +5,5 @@ package com.jcs.fish_2;
  */
 
 public class GitTest {
+    private String name;
 }
